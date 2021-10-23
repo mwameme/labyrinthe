@@ -14,5 +14,6 @@ CarteLabyrinthe maCarte("C:/Users/33658/OneDrive/Documents/projets/essai/labyrin
 B pour dire qu'il y a un chemin vers le Bas
 D pour dire qu'il y a un chemin vers la Droite
 E pour désigner la (seule) case d'entrée
+S pour désigner la (seule) case de sortie.
 les deux premiers nombres pour la taille de la grille ...
 Faire attention aux erreurs ! l'image en .png avec ...
