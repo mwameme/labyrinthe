@@ -1,0 +1,19 @@
+7 7
+BE,B ,B ,D ,B ,BD,B ;
+B ,B ,D ,B ,B ,B ,B ;
+B ,BD,B ,B ,BD,  ,B ;
+D ,  ,B ,B ,B ,D ,  ;
+DB,D ,  ,B ,BD,D ,B ;
+BD,D ,D ,D ,  ,B ,B ;
+D ,D ,D ,D ,D ,  ,S ;
+
+
+
+CarteLabyrinthe maCarte("C:/Users/33658/OneDrive/Documents/projets/essai/labyrinthe_test.txt");//main
+
+B pour dire qu'il y a un chemin vers le Bas
+D pour dire qu'il y a un chemin vers la Droite
+E pour désigner la (seule) case d'entrée
+S pour désigner la (seule) cas de sortie.
+les deux premiers nombres pour la taille de la grille ...
+Faire attention aux erreurs ! l'image en .png avec ...
