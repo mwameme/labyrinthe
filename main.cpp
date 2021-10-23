@@ -10,5 +10,6 @@ using namespace std;
 
 int main()
 {
-    CarteLabyrinthe maCarte("C:/Users/33658/OneDrive/Documents/projets/labyrinthe/labyrinthe_test.txt");//main
+    CarteLabyrinthe maCarte("labyrinthe_test.txt");//main
 }
+//C:/Users/33658/OneDrive/Documents/GitHub/labyrinthe/
